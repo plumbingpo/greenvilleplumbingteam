@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://greenvilleplumbingteam.com/sitemap.xml
